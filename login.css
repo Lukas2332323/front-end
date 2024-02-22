@@ -120,6 +120,16 @@ h1 {
     background-color: #29b982;
 }
 
+.btn-primary{
+    color: white;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px; /* Ajusta el margen superior según sea necesario */
+
+
+}
+
 
 
 
